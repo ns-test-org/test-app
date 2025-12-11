@@ -1,0 +1,1 @@
+Welcome to our Hello World landing page! This is a simple introduction to demonstrate file creation and editing capabilities. We've built a clean, modern landing page that showcases the basics of web development. Feel free to explore and modify this project as you learn and grow your skills in building web applications.

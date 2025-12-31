@@ -63,7 +63,7 @@ export default function TodoList() {
               onClick={addTodo}
               className="px-6 py-3 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors font-semibold"
             >
-              Add
+              Create
             </button>
           </div>
 
@@ -118,4 +118,5 @@ export default function TodoList() {
     </div>
   );
 }
+
 

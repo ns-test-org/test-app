@@ -46,7 +46,7 @@ export default function TodoList() {
     <div className={`min-h-screen transition-colors duration-300 ${
       isDarkMode 
         ? 'bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900' 
-        : 'bg-gradient-to-br from-purple-500 via-pink-500 to-orange-500'
+        : 'bg-gradient-to-br from-green-400 via-emerald-500 to-teal-600'
     } p-6`}>
       <div className="max-w-2xl mx-auto mt-12">
         <div className={`rounded-2xl shadow-2xl p-8 transition-colors duration-300 ${
@@ -159,6 +159,7 @@ export default function TodoList() {
     </div>
   );
 }
+
 
 
 
